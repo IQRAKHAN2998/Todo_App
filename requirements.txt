@@ -1,3 +1,2 @@
 # Python requirements for Todo App
-# No external dependencies needed for this console application
-# Only uses standard Python library
+colorama==0.4.6

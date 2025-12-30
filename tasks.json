@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "phase1",
+    "description": "basic to advance",
+    "completed": false,
+    "created": "2025-12-31T03:06:02.877683",
+    "priority": "high",
+    "due_date": "2026-01-02T00:00:00",
+    "category": "General",
+    "recurrence_pattern": "weekly",
+    "next_occurrence": "2026-01-02T00:00:00",
+    "reminder_datetime": null
+  },
+  {
+    "id": 2,
+    "title": "phase2",
+    "description": "frontend",
+    "completed": false,
+    "created": "2025-12-31T03:07:46.086827",
+    "priority": "medium",
+    "due_date": "2026-01-02T00:00:00",
+    "category": "General",
+    "recurrence_pattern": null,
+    "next_occurrence": "2026-01-02T00:00:00",
+    "reminder_datetime": "2025-12-31T03:09:00"
+  },
+  {
+    "id": 3,
+    "title": "phase1",
+    "description": "todo app",
+    "completed": false,
+    "created": "2025-12-31T03:13:06.834012",
+    "priority": "high",
+    "due_date": "2026-01-02T00:00:00",
+    "category": "general",
+    "recurrence_pattern": "weekly",
+    "next_occurrence": "2026-01-02T00:00:00",
+    "reminder_datetime": "2025-12-31T03:14:00"
+  }
+]
